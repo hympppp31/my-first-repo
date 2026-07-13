@@ -1,4 +1,4 @@
 # my-first-repo
 this is my first repository
 <br>
-author - Hymavathi kattamuri
+author - Hymavathi Kattamuri
